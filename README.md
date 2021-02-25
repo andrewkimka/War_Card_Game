@@ -1,1 +1,3 @@
-# War_Card_Game
+# War Card Game
+
+An interactive Python program that emulates the card game War.
